@@ -2012,33 +2012,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.28-18.49.09:655][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2024.08.28-18.49.10:322][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2024.08.28-18.49.10:331][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.08.28-18.49.12:414][598]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
-[2024.08.28-18.49.14:067][598]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049973s
-[2024.08.28-18.49.15:009][598]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000062s (0.991156s overbudget)
-[2024.08.28-18.49.15:041][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_Negro" FILE="../../../../../../Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/Material/M_Negro.uasset" SILENT=true
-[2024.08.28-18.49.15:043][598]LogSavePackage: Moving output files for package: /Game/Material/M_Negro
-[2024.08.28-18.49.15:043][598]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Berserk/Berserk/Saved/M_Negro8136D72F468304A6DA228E9E81DBB089.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/Material/M_Negro.uasset'
-[2024.08.28-18.49.15:051][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.71 sec (total: 5.29 sec)
-[2024.08.28-18.49.15:059][598]AssetCheck: New page: Asset Save: M_Negro
-[2024.08.28-18.49.15:059][598]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Material/M_Negro.M_Negro
-[2024.08.28-18.49.15:060][598]MaterialEditorStats: Base pass shader: 222 instructions
-[2024.08.28-18.49.15:060][598]MaterialEditorStats: Base pass vertex shader: 244 instructions
-[2024.08.28-18.49.15:060][598]MaterialEditorStats: MaxSampler: 270 instructions
-[2024.08.28-18.49.15:060][598]MaterialEditorStats: Texture samplers: 5/16
-[2024.08.28-18.49.15:060][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
-[2024.08.28-18.49.15:060][598]MaterialEditorStats: Shader Count: 23
-[2024.08.28-18.49.15:077][599]LogAutomationController: Ignoring very large delta of 5.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2024.08.28-18.49.15:567][631]LogSlate: Window 'M_Negro' being destroyed
-[2024.08.28-18.49.15:590][631]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
-[2024.08.28-18.49.15:590][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.08.28-18.49.40:869][784]LogSlate: Window 'Color Picker' being destroyed
-[2024.08.28-18.50.00:157][117]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.m_SimpleVolumetricCloud_Inst
-[2024.08.28-18.50.00:158][117]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.08.28-18.50.00:158][117]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2024.08.28-18.50.00:349][117]LogViewport: Scene viewport resized to 943x706, mode Windowed.
-[2024.08.28-18.50.05:938][453]LogViewport: Scene viewport resized to 941x729, mode Windowed.
-[2024.08.28-18.50.06:036][455]LogViewport: Scene viewport resized to 473x314, mode Windowed.
-[2024.08.28-18.50.07:168][581]LogSlate: Window 'm_SimpleVolumetricCloud_Inst' being destroyed
-[2024.08.28-18.50.07:246][581]LogViewport: Scene viewport resized to 475x329, mode Windowed.
-[2024.08.28-18.50.07:291][582]LogViewport: Scene viewport resized to 475x325, mode Windowed.
-[2024.08.28-18.50.23:210][609]LogAutomationController: Ignoring very large delta of 2.67 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests

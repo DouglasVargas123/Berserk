@@ -6,7 +6,20 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/Levels/L_Nivel.umap"
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/Levels/L_Nivel.umap",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/__ExternalActors__/Levels/L_Nivel/6/ZH/1ETU0PAMXE6FEXOIG1ND9S.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/__ExternalActors__/Levels/L_Nivel/4/VN/IV8KV53RXYX9AQZGZ9E4RL.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/__ExternalActors__/Levels/L_Nivel/7/FG/P7J7GE05BZC4GV616V0DHJ.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/__ExternalActors__/Levels/L_Nivel/4/T2/WMZ0I9V0DNI1MB70FD85WZ.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/__ExternalActors__/Levels/L_Nivel/2/QC/U767U1V6623S96PZGTDF1U.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/__ExternalActors__/Levels/L_Nivel/3/CS/461B7QOTSFRGENI3YAG25X.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/__ExternalActors__/Levels/L_Nivel/A/SZ/DXZE259SMCWMC4SV7B9JPD.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/__ExternalActors__/Levels/L_Nivel/2/JE/3ZBUU64SBGAAKJ7159PXFA.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/__ExternalActors__/Levels/L_Nivel/3/HQ/OI6QMVGV038T67P8URJG9J.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/__ExternalObjects__/Levels/L_Nivel/B/8Q/28O0K06EQEG14X7LFLF35L.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/Levels/L_Nivel_BuiltData.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Berserk/Berserk/Content/Material/M_Negro.uasset"
 			]
 		}
 	]
