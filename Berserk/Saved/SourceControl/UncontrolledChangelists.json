@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHubFork/Berserk/Berserk/Content/06_Model_3D/PastoYRocas/Pasto/Pasto1.uasset",
+				"D:/GitHubFork/Berserk/Berserk/Content/06_Model_3D/PastoYRocas/Rocas/TextureMaterial/Rocks.uasset",
+				"D:/GitHubFork/Berserk/Berserk/Content/05_Levels/L_Berserk.umap",
 				"D:/GitHub/Berserk/Berserk/Content/01_Tests/Felipe/PropsScenary/Grass/ArbustoSeco.uasset",
 				"D:/GitHub/Berserk/Berserk/Content/01_Tests/Felipe/PropsScenary/Grass/Grass2.uasset",
 				"D:/GitHub/Berserk/Berserk/Content/01_Tests/Felipe/PropsScenary/Grass/Maleza.uasset",
