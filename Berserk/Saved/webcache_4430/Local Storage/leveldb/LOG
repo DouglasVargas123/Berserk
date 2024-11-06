@@ -1,3 +1,2 @@
-2024/10/22-21:19:28.204 404c Reusing MANIFEST E:/Fork/Berserk/Berserk/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/10/22-21:19:28.205 404c Recovering log #3
-2024/10/22-21:19:28.206 404c Reusing old log E:/Fork/Berserk/Berserk/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/11/06-14:05:27.737 2838 Creating DB C:/Users/Alumno/Berserk/Berserk/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/11/06-14:05:27.767 2838 Reusing MANIFEST C:/Users/Alumno/Berserk/Berserk/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
